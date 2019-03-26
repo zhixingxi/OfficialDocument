@@ -3,35 +3,6 @@
 #### 介绍
 文案工作
 
-#### 软件架构
-软件架构说明
+[2018届毕业生期望薪资6K!同为90后的职场老司机薪资到底怎么样？](https://gitee.com/mengqingling/OfficialDocuments/blob/master/%E8%BD%AF%E6%96%87/2018%E5%B1%8A%E6%AF%95%E4%B8%9A%E7%94%9F%E6%9C%9F%E6%9C%9B%E8%96%AA%E8%B5%846K!%E5%90%8C%E4%B8%BA90%E5%90%8E%E7%9A%84%E8%81%8C%E5%9C%BA%E8%80%81%E5%8F%B8%E6%9C%BA%E8%96%AA%E8%B5%84%E5%88%B0%E5%BA%95%E6%80%8E%E4%B9%88%E6%A0%B7%EF%BC%9F.docx)
 
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+[30岁之后，一定要远离这三种人！](https://gitee.com/mengqingling/OfficialDocuments/blob/master/%E8%BD%AF%E6%96%87/30%E5%B2%81%E4%B9%8B%E5%90%8E%EF%BC%8C%E4%B8%80%E5%AE%9A%E8%A6%81%E8%BF%9C%E7%A6%BB%E8%BF%99%E4%B8%89%E7%A7%8D%E4%BA%BA%EF%BC%81.docx)
